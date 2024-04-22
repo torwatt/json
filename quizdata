@@ -1,17 +1,17 @@
 [
   {
-    "question": "Hva er hovedstaden i Norge?",
-    "options": ["Oslo", "Bergen", "Trondheim"],
-    "answer": "Oslo"
+    "spørsmål": "Hva heter hovedstaden i Norge?",
+    "svar": ["Oslo", "Bergen", "Trondheim", "Stavanger"],
+    "riktigSvar": "Oslo"
   },
   {
-    "question": "Hva er verdens høyeste fjell?",
-    "options": ["K2", "Mount Everest", "Matterhorn"],
-    "answer": "Mount Everest"
+    "spørsmål": "Hva er hovedstaden i Sverige?",
+    "svar": ["Helsingfors", "Stockholm", "København", "Oslo"],
+    "riktigSvar": "Stockholm"
   },
   {
-    "question": "Hva er verdens største øy?",
-    "options": ["Grønland", "Madagaskar", "Borneo"],
-    "answer": "Grønland"
+    "spørsmål": "Hva er hovedstaden i Danmark?",
+    "svar": ["København", "Stockholm", "Oslo", "Helsingfors"],
+    "riktigSvar": "København"
   }
 ]
