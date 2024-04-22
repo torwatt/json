@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Hva er hovedstaden i Norge?",
+    "options": ["Oslo", "Bergen", "Trondheim"],
+    "answer": "Oslo"
+  },
+  {
+    "question": "Hva er verdens høyeste fjell?",
+    "options": ["K2", "Mount Everest", "Matterhorn"],
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "Hva er verdens største øy?",
+    "options": ["Grønland", "Madagaskar", "Borneo"],
+    "answer": "Grønland"
+  }
+]
