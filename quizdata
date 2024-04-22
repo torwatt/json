@@ -1,17 +1,19 @@
-[
-  {
-    "question": "Hva er hovedstaden i Norge?",
-    "options": ["Oslo", "Stockholm", "Helsinki"],
-    "answerIndex": 0
-  },
-  {
-    "question": "Hva er verdens høyeste fjell?",
-    "options": ["Mount Everest", "K2", "Kilimanjaro"],
-    "answerIndex": 0
-  },
-  {
-    "question": "Hva er hovedstaden i Frankrike?",
-    "options": ["Paris", "Roma", "Madrid"],
-    "answerIndex": 0
-  }
-]
+{
+  "quizdata": [
+    {
+      "question": "Hva er hovedstaden i Norge?",
+      "options": ["Oslo", "Stockholm", "Helsinki"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Hva er verdens høyeste fjell?",
+      "options": ["Mount Everest", "K2", "Kilimanjaro"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Hva er hovedstaden i Frankrike?",
+      "options": ["Paris", "Roma", "Madrid"],
+      "answerIndex": 0
+    }
+  ]
+}
